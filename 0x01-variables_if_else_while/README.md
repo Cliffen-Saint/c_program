@@ -7,7 +7,7 @@ Determine if number is *negative*
 **Task 1**
 Print the *last digit* of the number
 
-====================================
+===================================
 **Task 2**
 Prints the alphabet in lowercase, followed by a new line
 Using only putchar, twice
@@ -36,4 +36,7 @@ followed by a new line
 use putchar
 
 ===================================
-=
+**Task 7**
+prints the lowercase alphabet in reverse,
+followed by a new line, use putchar twice only
+
