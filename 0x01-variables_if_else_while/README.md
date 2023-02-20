@@ -8,4 +8,8 @@ Determine if number is *negative*
 Print the *last digit* of the number
 
 ====================================
+**Task 2**
+Prints the alphabet in lowercase, followed by a new line
+Using only putchar, twice
 
+====================================
