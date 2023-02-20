@@ -13,3 +13,16 @@ Prints the alphabet in lowercase, followed by a new line
 Using only putchar, twice
 
 ====================================
+**Task 3**
+prints the alphabet in lowercase, 
+and then in uppercase, followed by a new line
+Using only putchar, thrice
+
+====================================
+**Task 4**
+ prints the alphabet in lowercase, followed by a new line
+ Print all the letters except q and e
+ You can only use putchar twice in your code
+ 
+ ====================================
+ 
