@@ -8,7 +8,7 @@
  * Return: Always 0 or 1 (Success)
  *
  **/
-int _islower(int c);
+int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
 		return (1);
