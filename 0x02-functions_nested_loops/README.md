@@ -9,3 +9,10 @@ prints the alphabet, in lowercase, followed by a new line
 **Task 2**
 prints 10 times the alphabet, in lowercase, followed by a new line
 
+**Task 3**
+Checks for lowercase character
+
+**Task 4**
+
+
+**Task 5**
